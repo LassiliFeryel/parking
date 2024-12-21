@@ -1,0 +1,5 @@
+lavagecomplet S004 80 1 Moyenne 0 0 1
+lavage_exterieur S005 50 1 Haute 0 0 1
+lavage_interieur S003 60 1 Haute 0 0 1
+vidange S001 40 0 Haute 0 0 1
+controledespneus S002 100 0 Haute 0 1 1
